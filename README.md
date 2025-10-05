@@ -1,2 +1,4 @@
-# stock-analysis-project-V3
-Python script to analyze stock data (6 months progress)
+# Stock Analysis Project
+
+This is a simple Python project that analyzes stock prices using free financial datasets.  
+It calculates returns, moving averages, and visualizes trends.  
