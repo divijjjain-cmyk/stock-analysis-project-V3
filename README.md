@@ -32,5 +32,3 @@ Errors? Google "Python [error message]".
 
 Made by Divij Jain 
 This is for education—stocks are risky! Built with help from YouTube tutorials and Python docs. Questions? Comment below.
-
-Made by [Your Name], October 2023.
